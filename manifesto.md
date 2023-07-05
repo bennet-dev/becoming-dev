@@ -1,5 +1,11 @@
 # The Self Taught Developer: <br> <sub>A Manifesto </sub>
-Recently, someone I know approached me for guidance. I don't know him very well, he had just heard that I had managed to teach my self how to code, and break into the software industry without a college degree. He too is wanting to break into the industry
+Recently, someone I know approached me for guidance. I don't know him very well, but he heard that I had managed to teach my self how to code, and break into the software industry without a college degree, or attending a bootcamp. He too is wanting to break into the industry, and is in the beginning stages of learning how to code. 
+
+Admittedly, at first I drew a blank. I didn't even know where to begin. But, later I sat down and began typing up my thoughts so I could give him better advice. A few thoughts soon morphed into the article below. 
+
+Based on my experience, here on my thoughts on becoming a self taught software engineer:
+
+--- 
 
 Your goal is twofold:
 1. Learn how to develop software, and
