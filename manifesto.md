@@ -1,11 +1,6 @@
-# The Self Taught Developer: <br> <sub>A Manifesto </sub>
-Recently, someone I know approached me for guidance. I don't know him very well, but he heard that I had managed to teach my self how to code, and break into the software industry without a college degree, or attending a bootcamp. He too is wanting to break into the industry, and is in the beginning stages of learning how to code. 
+# The Self Taught Developer: A Manifesto
 
-Admittedly, at first I drew a blank. I didn't even know where to begin. But, later I sat down and began typing up my thoughts so I could give him better advice. A few thoughts soon morphed into the article below. 
-
-Based on my experience, here on my thoughts on becoming a self taught software engineer:
-
---- 
+### Based on my experience, here on my thoughts on becoming a self taught software engineer:
 
 Your goal is twofold:
 1. Learn how to develop software, and
@@ -17,16 +12,16 @@ The second goal of getting a job building software, shouldn't be ignored until y
 
 You have to work toward both goals in tandem. Think of it as a truck (learning to code) pulling a trailer (getting a job). As you reach milestones on your way toward your goal, you throw those milestones into the trailer, so that when an opportunity for a job arises, you can show them evidence of your abilty. 
 
-This journey, however long it takes, will require a heavy dose of **Persistence**. <br>
+This journey, however long it takes, will require a heavy dose of **Persistence**.
 There is an *unkown* time and date in the future when you will be extended your first job offer as a software engineer. Keyword: Unknown. While your level of effort and commitment will oscilate over time, you cannot let it reach zero. 
 
 Becoming a good software engineer is a continuous persuit. For as long as your career lasts, you will be working to improve your abilities and expand your knowledge. If you don't, your career won't last. 
 
-However long you think it will take you to get your first job as a software engineer, your wrong. The fact is, you have no idea how long it will take. I've seen some people quit their jobs so they can study programming full-time, hoping that in two or three months, they'll land a job. Yeah, ...maybe. Take whatever risk you are willing and comfortable taking. Just keep in mind that you only have control over how prepared you are for the job, not when the job is offered. You can *influence* the timing by your efforts, but you cannot *control* it. So, whatever risks you decide to take, remember that, in reality, you have no idea when they will pay off. So plan accordingly. 
+However long you think it will take you to get your first job as a software engineer, your wrong. The fact is, you have no idea how long it will take. I've seen some people quit their jobs so they can study programming full-time, hoping that in two or three months, they'll land a job. Yeah, ...maybe. Take whatever risks you are willing and comfortable taking. Just keep in mind that you only have control over how prepared you are for the job, not when the job is offered. You can *influence* the timing by your efforts, but you cannot *control* it. So, whatever risks you decide to take, remember that, in reality, you have no idea when they will pay off. So plan accordingly. 
 
 ## An Uncomfortable Truth
-Look at the advertsing for some of the courses and bootcamps out there. <br>
-You'll see things like "Zero to Hero!", "Become a software engineer!", "Become a JavaScript Pro!".<br>
+Look at the advertsing for some of the courses and bootcamps out there.
+You'll see things like "Zero to Hero!", "Become a software engineer!", "Become a JavaScript Pro!".
 Look at the sheer number of courses and bootcamps that are available! 
 
 "Learning to code" has become akin to a get rich quick scheme. The implication of some of these courses being "Take my 20 hour Udemy course and become a highly paid engineer". Of course you'll find the super genius on Reddit who went from zero to hero in a week and now works at Google, and they're *totally* not lying. In reality, there are outliers on either end of the spectrum. Those who learn to code and manage to get a job in a few months, and those who take a few years. A lot of factors can play into this, one of the biggest being how much time you can *consistently* dedicate to focused study.  
@@ -41,7 +36,7 @@ Sustained effort over a long period of time *is* the path to success.
 
 Another important fact is that there is a lot of content about learning how to code. Much of it, including the actual documentation for the languages and frameworks you'll learn, is completely free. On the other hand, there is a ton of paid content as well. There is no shortage of people willing to take your money. Paying for a course when there are free ones available is not necessarily a poor choice. Some content is behind a paywall because it's really high qualty. Some content is just behind a paywall. The problem is that when you're inexperienced, you don't have the ability to tell the difference between high quality code and terrible code, let alone good courses and bad courses. 
 
-Some people say they prefer to pay for courses simply because it gives them more motivation to actually do the course, so they get their money's worth. I won't argue with that, but some of these bootcamps are charging $10,000 to $20,000. Thats a lot to pay for a little discipline. There is a fallacy that exists called the "Price-Quality Heuristic". It states that the higher priced a product is, the more likely we are to assume it is of a higher quality. Why use <a href="https://www.freecodecamp.org/">freecodecamp.org</a>, when I can pay $400 for a <a href="https://www.udacity.com/" >Udacity</a> course? Surely the paid course is better, right? The answer is *maybe*. But also, *maybe not*.
+Some people say they prefer to pay for courses simply because it gives them more motivation to actually do the course, so they get their money's worth. I won't argue with that, but some of these bootcamps are charging $10,000 to $20,000. Thats a lot to pay for a little discipline. There is a fallacy that exists called the "Price-Quality Heuristic". It states that the higher priced a product is, the more likely we are to assume it is of a higher quality. Why use [freecodecamp](https://www.freecodecamp.org/), when I can pay $400 for a [Udacity](https://www.udacity.com/) course? Surely the paid course is better, right? The answer is *maybe*. But also, *maybe not*.
 
 I don't have a solution for parsing out the good from the bad content out there. I'm merely pointing out that you *can*, in fact, learn how to code 100% for free, if you so choose. The free (or nearly free) resources available are, in my experience, of a surprisingly high quality. Especially for people just starting out. If, after you've had a job, you want to learn some niche programming languge or a specific software developement methodology, by all means, buy a course. There will still likely be free options available, but in my experience when you get into more advanced/niche topics, it may be worth it to pay.
 
@@ -50,13 +45,13 @@ Another challenge, due to the sheer volume of different content, is knowing *wha
 ## How to Develop Software
 In the begining you will follow tutorials. You will code along with an instructor as you learn the basics of the language and, together, build an app. This is the proper order of things.
 
-However, this can go on too long. You'll finish your course of Udemy or YouTube, sit down to begin working on your own project, and...
+However, this can go on too long. You'll finish your course on Udemy or YouTube, sit down to begin working on your own project, and...
 
 You have no idea where to begin. You may attempt another course. Or follow another tutorial. But every time you try to work independantly, you can't seem to make progress. And thus, the cycle continues. 
 
 Welcome to **Tutorial Hell**. Here you will find weeping, wailing, and gnashing of teeth. 
 
-To escape, you must learn how to develop software independent of a guide. 
+To escape, you must learn how to develop software independently. 
 
 To do this, you must stop following tutorials. Instead, use them as reference rather than a guide. So build your own app, but don't bite off more than you can chew. In fact, if you've already built an app by following a tutorial, build that app again. But this time, rather than following along with the tutorial, use your previous code and the tutorial as a reference, but not a guide. If you get stuck, go back and look at your old code or use the internet. As a last resort, reference the tutorial. Build this same app over, and over again. Each itteration, start a new project. Don't throw away your old code. Eventually, you'll want to go back to your oldest projects and do code reviews with yourself. See if you can find where you improved and perhaps where you still need improvement.
 
